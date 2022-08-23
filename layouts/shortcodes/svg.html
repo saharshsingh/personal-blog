@@ -1,0 +1,4 @@
+{{ with .Get "id" }}
+    {{ $svg :=  print "svgs/" . ".svg" }}
+    {{ partial $svg }}
+{{ end }}

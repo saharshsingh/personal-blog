@@ -1,0 +1,33 @@
+baseURL: //saharsh.org
+languageCode: en-us
+title: The BIT That Matters
+paginate: 5
+
+hasCJKLanguage: true
+permalinks:
+  posts: /:slugorfilename
+
+#googleAnalytics: UA-123-45
+#disqusShortname: nodejh
+
+
+markup:
+  highlight:
+    guessSyntax: true
+    style: emacs
+
+
+social:
+  github: https://github.com/saharshsingh
+  twitter: https://twitter.com/saharshs1ngh
+  linkedin: https://linkedin.com/in/saharshs
+
+
+params:
+  author: Saharsh Singh
+  bio: Saharsh Singh
+  description: My Blog
+  enableRSS: true
+  enableComments: true
+  showToc: true
+#  enableGoogleAnalytics: true
