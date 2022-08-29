@@ -10,7 +10,6 @@ tags = [
     "society",
 ]
 categories = [
-    "much-ado-podcasts",
     "podcasts",
 ]
 aliases = [

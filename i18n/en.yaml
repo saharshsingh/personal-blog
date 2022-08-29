@@ -1,11 +1,14 @@
-home:
-  other: Home
+feed:
+  other: Feed
 
 archive:
   other: Archive
 
 tags:
   other: Tags
+
+browse:
+  other: Browse
 
 about:
   other: About
