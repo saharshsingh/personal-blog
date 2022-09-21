@@ -5,7 +5,7 @@ paginate: 5
 
 hasCJKLanguage: true
 permalinks:
-  posts: /:slugorfilename
+  posts: /:section/:slugorfilename
 
 #googleAnalytics: UA-123-45
 #disqusShortname: nodejh

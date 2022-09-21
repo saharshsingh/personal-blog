@@ -15,6 +15,9 @@ tags = [
 categories = [
     "articles",
 ]
+aliases = [
+    "/blog-and-hugo/",
+]
 +++
 
  The **BIT That Matters** is back after a long hiatus. It's also getting a long overdue makeover. I started hosting this site starting late 2017 / early 2018 on an AWS EC2 instance, using WordPress as the main part of the stack. Since then, I have been increasingly using Hugo as my go-to tech for building static web sites. Naturally, when opportunity came to do a tech refresh for this site, I went with Hugo. In this article, I want to capture some of the cool features of Hugo that came in quite handy during this tech refresh.
